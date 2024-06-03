@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The personal, academic webpage for Shuai Yue, inspired by sean-chester.github.io.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "hhttps://synmg.github.io/1/" # the base hostname & protocol for your site
-repository: SYNMG/synmg.github.io/1/
+repository: SYNMG/1/
 twitter_username: 
 twitter:
   username: 
