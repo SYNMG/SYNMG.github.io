@@ -12,5 +12,4 @@ This site makes extensive use of [Font Awesome](https://fontawesome.com)
 and [Academicons](https://jpswalsh.github.io/academicons/).
 
 License info includes: 
-[CC BY 4.0](https://fontawesome.com/license), [https://fontawesome.com/license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), and 
-[The MIT License](https://opensource.org/licenses/MIT).
+[CC BY 4.0](https://fontawesome.com/license), [https://fontawesome.com/license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
