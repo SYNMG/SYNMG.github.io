@@ -12,8 +12,8 @@ email: s.yue1@massey.ac.nz
 description: > # this means to ignore newlines until "baseurl:"
   The personal, academic webpage for Shuai Yue, inspired by sean-chester.github.io.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://SYNMG.github.io" # the base hostname & protocol for your site
-repository: SYNMG/SYNMG.github.io
+url: "hhttps://synmg.github.io/1/" # the base hostname & protocol for your site
+repository: SYNMG/synmg.github.io/1/
 twitter_username: 
 twitter:
   username: 
