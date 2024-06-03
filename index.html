@@ -1,0 +1,71 @@
+---
+layout: default
+title: Home
+order: 1
+---
+
+<div class="home">
+
+	<div id="name-box" >
+		<h1 style="padding-bottom:0em; margin-bottom:0em; ">Shuai Yue</h1>
+		<h3 style="padding:0em; margin:0em; font-style:italic; ">Ph.D., AFHEA</h2 >
+    <h3 style="padding:0em; margin:0em; ">New Zealand</h2 >
+    <div>
+      <ul class="contact-list" style="margin:0; padding:0;">
+        <li class="inline-social">
+          {% include icon-email.html email=site.email %}
+        </li>
+        {% if site.github_username %}
+        <li class="inline-social" style="margin-left:2em; margin-right:2em; ">
+          {% include icon-github.html username=site.github_username %}
+        </li>
+        {% endif %}
+        </li>
+        {% if site.scholar_username %}
+        <li class="inline-social" style="margin-left:2em; margin-right:auto; ">
+          {% include icon-google-scholar.html username=site.scholar_username %}
+        </li>
+      {% endif %}
+        {% if site.twitter_username %}
+        <li class="inline-social">
+          {% include icon-twitter.html username=site.twitter_username %}
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+	</div>
+
+<div id="info-box" >
+  
+  <img id="me" src="/assets/images/profile.jpeg" />
+  <div id="research-focus" >
+  <h4>Research Focus</h4>
+  <span style="font-style:italic; ">
+    <ul>
+      <li> Corporate Finance </li> 
+      <li> Corporate Governance </li>
+      <li> Sustainable Finance </li>
+      <ul>
+ <!--this is to add subipoints:
+          <li> algorithm design and analysis </li> 
+        <li> multicore and GPU algorithms </li>
+      </ul>
+
+ -->
+  </span>
+  </div>
+</div>
+
+</div>
+
+<br>
+
+<div class="recent-news">
+  <h2>Recent News 📢</h2>
+  <ul>
+      <li>
+          <p>Our research paper has been featured on Emerald Publishing's brand new mission page! <a href="/updates/emerald.html">Read more</a></p>
+      </li>
+      <!-- Add more news items as needed -->
+  </ul>
+</div>

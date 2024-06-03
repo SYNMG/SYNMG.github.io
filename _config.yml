@@ -1,0 +1,38 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Shuai Yue
+author: Shuai
+email: s.yue1@massey.ac.nz
+description: > # this means to ignore newlines until "baseurl:"
+  The personal, academic webpage for Shuai Yue, inspired by sean-chester.github.io.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://SYNMG.github.io" # the base hostname & protocol for your site
+repository: SYNMG/SYNMG.github.io
+twitter_username: 
+twitter:
+  username: 
+github_username:  # SYNMG
+scholar_username: RhTwNcsAAAAJ
+orcid_username: # 0000-0002-1065-605X
+linkedin_username: # synm
+google_site_verification: # none
+social:
+  name: Shuai Yue
+  links:
+    # - https://twitter.com/username
+    - https://www.linkedin.com/in/synm/
+    # - https://github.com/username
+logo: /assets/images/logo.png
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
