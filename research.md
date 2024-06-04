@@ -34,7 +34,7 @@ My current research interests revolve around corporate finance, corporate govern
 * Cui, X., Liao, J., Goodell, J., Li, Y., & Yue, S. Global Risk Contagion and Financial Assets Security: Evidence from Quantile Connectedness Approach.
 * Yue, S., Anderson, H.D., & Liao, J. Political connection and negative information hoarding: evidence from the central environmental protection inspections.
 * Yue, S., Anderson, H.D., & Liao, J. Who does not advance loses ground: Green investment as a strategic response by small firms to economic policy uncertainty.
-* Yue, S., Anderson, H.D., & Liao, J. The impact of state ownership on firm performance: A trade‑off between the grabbing hand effect and monitoring effect
+* Yue, S., Anderson, H.D., & Liao, J. The impact of state ownership on firm performance: A trade‑off between the grabbing hand effect and monitoring effect.
 
 
 ### Conferences

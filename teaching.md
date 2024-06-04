@@ -11,7 +11,7 @@ order: 4
 
 <div style="text-align: justify;">
 
-I have developed a teaching philosophy that centres on active student engagement. I encourage students to engage actively in discussions, analyse real-world financial cases, and develop problem-solving skills. I believe students learn best when they are encouraged to ask questions and share ideas.  Creating an inclusive learning environment that respects diverse viewpoints and backgrounds is also a key to me. Additionally, I believe in employing a mix of evaluation methods to assess students' diverse skill sets and knowledge levels 🎓.
+I have developed a teaching philosophy that centres on active student engagement. I encourage students to engage actively in discussions, analyse real-world financial cases, and develop problem-solving skills. I believe students learn best when they are encouraged to ask questions and share ideas.  Creating an inclusive learning environment that respects diverse viewpoints and backgrounds is also a key to me. Additionally, I believe in employing a mix of evaluation methods to assess students' diverse skill sets and knowledge levels 🎓
 
 
 

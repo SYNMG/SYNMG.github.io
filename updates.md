@@ -4,7 +4,7 @@ title: Recent Updates
 nav-title: News
 heading: Recent Updates
 permalink: /updates/
-order: 6
+order: 7
 seo:
   name: Shuai Yue
   links: ["https://www.linkedin.com/in/synm/"]

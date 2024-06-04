@@ -6,7 +6,7 @@ description: >
 heading: Others
 nav-title: Others
 permalink: /others/
-order: 7
+order: 6
 seo:
   name: Shuai Yue
   links: ["https://www.linkedin.com/in/synm/"]
