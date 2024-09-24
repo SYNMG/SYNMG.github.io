@@ -41,8 +41,8 @@ My current research interests revolve around corporate finance, corporate govern
 Some presentations are by co-authors
 
 * Yue, S., Anderson, H.D., & Liao, J. Who does not advance loses ground: Green investment as a strategic response by small and medium-sized enterprises to economic policy uncertainty.  **the 2024 Vietnam Symposium in Banking and Finance (VSBF2024)**, to be held in October 2024
-* Yue, S., Anderson, H.D., & Liao, J. Who does not advance loses ground: Green investment as a strategic response by small and medium-sized enterprises to economic policy uncertainty.  **the 3rd Vietnam Symposium in Entrepreneurship, Finance, and Innovation (VSEFI2024)**, to be held in September 2024
-* Yue, S., Anderson, H.D., & Liao, J. Economic policy uncertainty exposure and corporate green investment: does firm size matter? **2023 Vietnam Symposium in Climate Transition**, Online, December 2023
+* Yue, S., Anderson, H.D., & Liao, J. Who does not advance loses ground: Green investment as a strategic response by small and medium-sized enterprises to economic policy uncertainty.  **the 3rd Vietnam Symposium in Entrepreneurship, Finance, and Innovation (VSEFI2024)**, September 2024 /* This is a hidden note */
+* Yue, S., Anderson, H.D., & Liao, J. Economic policy uncertainty exposure and corporate green investment: does firm size matter? **2023 Vietnam Symposium in Climate Transition**, December 2023 
 * Yue, S., Anderson, H.D., & Liao, J. Political connection and stock price crash risk: evidence from the environmental protection inspection. **Vietnam Symposium in Banking and Finance 2023**, Online, October 2023
 * Yue, S., Anderson, H.D., & Liao, J. Environmental protection inspection and stock price crash risk, the moderating effect of political connections. **the 27th Annual New Zealand Finance Colloquium 2023**, Wellington, New Zealand, February 2023
 * Boubaker, S., Cheng, F., Liao, J., & Yue, S. Environmental Tax Incentives and Corporate Environmental Behaviour: An Unintended Consequence from a Natural Experiment in China. **2023 China Accounting and Finance Conference**, Online, January 2023
