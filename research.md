@@ -40,7 +40,7 @@ My current research interests revolve around corporate finance, corporate govern
 ### Conferences
 Some presentations are by co-authors
 
-* Yue, S., Anderson, H.D., & Liao, J. Who does not advance loses ground: Green investment as a strategic response by small and medium-sized enterprises to economic policy uncertainty.  **the 2024 Massey Sustainable Finance Conference (VSBF2024)**, Auckland, New Zealand, December 2024
+* Yue, S., Anderson, H.D., & Liao, J. Who does not advance loses ground: Green investment as a strategic response by small and medium-sized enterprises to economic policy uncertainty.  **the 2024 Massey Sustainable Finance Conference (MSFC2024)**, Auckland, New Zealand, December 2024
 * Yue, S., Anderson, H.D., & Liao, J. Who does not advance loses ground: Green investment as a strategic response by small and medium-sized enterprises to economic policy uncertainty.  **the 3rd Vietnam Symposium in Entrepreneurship, Finance, and Innovation (VSEFI2024)**, September 2024 <!-- Presenting Online -->
 * Yue, S., Anderson, H.D., & Liao, J. Economic policy uncertainty exposure and corporate green investment: does firm size matter? **2023 Vietnam Symposium in Climate Transition**, December 2023 <!-- Presenting Online -->
 * Yue, S., Anderson, H.D., & Liao, J. Political connection and stock price crash risk: evidence from the environmental protection inspection. **Vietnam Symposium in Banking and Finance 2023**, October 2023 <!-- Presenting Online -->
