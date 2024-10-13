@@ -30,7 +30,7 @@ My current research interests revolve around corporate finance, corporate govern
 
 
 * Yue, S., Anderson, H.D., & Liao, J. Negative Information Hoarding in Politically Connected Firms: The Influence from the Central Environmental Protection Inspections. **(R&R)**
-* Yue, S., Anderson, H.D., & Liao, J. Who does not advance loses ground: Green investment as a strategic response by small firms to economic policy uncertainty.
+* Yue, S., Anderson, H.D., & Liao, J. Who does not advance loses ground: Green investment as a strategic response by small and medium-sized enterprises to economic policy uncertainty.
 * Legalisation reform and corporate governance (in progress).
 * Foreign mergers and acquisitions (in progress).
 * Cui, X., Liao, J., Goodell, J., Li, Y., & Yue, S. Global Risk Contagion and Financial Assets Security: Evidence from Quantile Connectedness Approach.
