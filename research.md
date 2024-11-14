@@ -20,9 +20,9 @@ My current research interests revolve around corporate finance, corporate govern
 
 ### Publications
 
-* Yue, S., Anderson, H.D., & Liao, J. (2024). Negative information hoarding in politically connected firms: The influence from the central environmental protection inspections. *Pacific-Basin Finance Journal* [📰](https://doi.org/10.1016/j.pacfin.2024.102571) ABDC: A
+* Yue, S., Anderson, H.D., & Liao, J. (2024). Negative information hoarding in politically connected firms: The influence from the central environmental protection inspections. *Pacific-Basin Finance Journal, 88,* 102571 [📰](https://doi.org/10.1016/j.pacfin.2024.102571) ABDC: A
 
-* Boubaker, S., Cheng, F., Liao, J., & Yue, S. (2023). Environmental tax incentives and corporate environmental behaviour: An unintended consequence from a natural experiment in China. *European Financial Management* [📰](https://doi.org/10.1111/eufm.12445) ABDC: A; ABS: 3
+* Boubaker, S., Cheng, F., Liao, J., & Yue, S. (2023). Environmental tax incentives and corporate environmental behaviour: An unintended consequence from a natural experiment in China. *European Financial Management, 30*(2), 800-838 [📰](https://doi.org/10.1111/eufm.12445) ABDC: A; ABS: 3
 
 * Anderson, H. D., Liao, J., & Yue, S. (2022). Financial expert CEOs, political intervention, and corporate investment decisions: evidence from the anti-corruption campaign. *International Journal of Managerial Finance, 18*(3), 562-593 [📰](https://doi.org/10.1108/IJMF-12-2020-0622) ABDC: A
 
