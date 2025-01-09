@@ -26,7 +26,7 @@ seo:
 
 ### Other Activities
 
-* Student Membership of Institute of Finance Professionals New Zealand (INFINZ), Since Jul. 2021 - 2024
+* Student Membership of Institute of Finance Professionals New Zealand (INFINZ), Jul. 2021 - 2024
 * Member of Massey EcoFin Club, Massey University, 2019‑2023
 * Bloomberg Facilitator of Massey EcoFin Club, Massey University, 2019
 * Outstanding Graduates in the promotion of the [College of International Education](https://gjjyxy.imau.edu.cn/info/1070/2009.htm), Inner Mongolia Agricultural University, Since 2019
