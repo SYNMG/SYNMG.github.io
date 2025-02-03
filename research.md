@@ -53,6 +53,8 @@ Some presentations are by co-authors
 ### Acted as a Referee for
 
 * International Review of Economics and Finance
+* Scientific Reports
+* Applied Economics Letters
 
 ### Other Research Activities
 
